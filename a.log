@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.4.14)  11 SEP 2013 23:50
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.5.29)  12 SEP 2013 17:25
 entering extended mode
  %&-line parsing enabled.
 **a.tex
@@ -388,7 +388,11 @@ Now handling font encoding U ...
 (/usr/share/texmf/tex/latex/tools/enumerate.sty
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 \@enLab=\toks23
-) (./a.aux)
+) (./a.aux
+
+LaTeX Warning: Label `impger' multiply defined.
+
+)
 \openout1 = `a.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -404,8 +408,7 @@ LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 37.
-
-(/usr/share/texmf/tex/latex/psnfss/t1ppl.fd
+ (/usr/share/texmf/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 -------------------- Geometry parameters
@@ -480,25 +483,46 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 
 <impger.jpg, id=7, 401.5pt x 200.75pt>
 File: impger.jpg Graphic file (type jpg)
- <use impger.jpg> [2 <./impger.jpg>]
-(./a.aux) ) 
+ <use impger.jpg>
+Overfull \hbox (32.0102pt too wide) in paragraph at lines 61--69
+\T1/ppl/m/n/10 Portanto, para [][], [][] e [][], te-mos: [],
+ []
+
+[2 <./impger.jpg>]
+Overfull \hbox (47.88763pt too wide) in paragraph at lines 70--71
+[]\T1/ppl/b/n/10 Resistência em sé-rie do in-du-tor ($\OML/cmm/m/it/10 R[]$\T1/
+ppl/b/n/10 )\T1/ppl/m/n/10 : O cál-culo de $\OML/cmm/m/it/10 R[]$ \T1/ppl/m/n/1
+0 foi apre-sen-tado no re-la-tó-rio I, re-sul-tando em []. 
+ []
+
+<integrador.jpg, id=21, 351.3125pt x 210.7875pt>
+File: integrador.jpg Graphic file (type jpg)
+ <use integrador.jpg> [3 <./integrador.jpg>] (./a.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2685 strings out of 256216
- 30807 string characters out of 1917072
- 91741 words of memory out of 1500000
- 5933 multiletter control sequences out of 10000+200000
- 14953 words of font info for 30 fonts, out of 1200000 for 2000
+ 2717 strings out of 256216
+ 31169 string characters out of 1917072
+ 95741 words of memory out of 1500000
+ 5954 multiletter control sequences out of 10000+200000
+ 22044 words of font info for 44 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 27i,7n,28p,387b,310s stack positions out of 5000i,500n,6000p,200000b,15000s
-{/usr/share/texmf/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/font
-s/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi7.pf
-b></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/ty
-pe1/bluesky/cm/cmr7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></u
-sr/share/texmf/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf/fonts/type
-1/urw/palatino/uplr8a.pfb>
-Output written on a.pdf (2 pages, 81628 bytes).
+ 27i,8n,28p,1057b,310s stack positions out of 5000i,500n,6000p,200000b,15000s
+{/usr/share/texmf/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/b
+luesky/cm/cmex10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></usr/
+share/texmf/fonts/type1/bluesky/cm/cmmi6.pfb></usr/share/texmf/fonts/type1/blue
+sky/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share
+/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/c
+m/cmr5.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/
+fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10
+.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf/fonts
+/type1/urw/palatino/uplb8a.pfb></usr/share/texmf/fonts/type1/urw/palatino/uplr8
+a.pfb>
+Output written on a.pdf (3 pages, 132841 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

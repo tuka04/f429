@@ -111,7 +111,7 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 60):
    -- Unknown index keyword \begin.
 !! Input index error (file = a.tex, line = 61):
-   -- Unknown index keyword \item\textbf.
+   -- Unknown index keyword \item\label.
 !! Input index error (file = a.tex, line = 62):
    -- Unknown index keyword \begin.
 !! Input index error (file = a.tex, line = 63):
@@ -125,11 +125,47 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 67):
    -- Unknown index keyword \end.
 !! Input index error (file = a.tex, line = 68):
-   -- Unknown index keyword Primeiromedimosatensãodesaídadogeradordefunçõesconectando-odiretamenteaoosciloscópio.Medidaatensãodepico$V_0$,colocamosagoraumresistoremparaleloaocircuito,eobtemosumvalorparaV.Comessasmedidaspodemosencontrarumvalorpara$R_G$,jáquesabendoque\boxed.
+   -- Unknown index keyword Primeiromedimosatensãodesaídadogeradordefunçõesconectando-odiretamenteaoosciloscópio.Apósmediropico$V_0$,colocamosumresistoremparaleloaocircuito,eobtemosumvalorparaV.Comessasmedidaspodemosencontrarumvalorpara$R_G$,sabendoquetemosumdivisordetensãoejuntandoaLeideOhm\footnote.
 !! Input index error (file = a.tex, line = 69):
-   -- Unknown index keyword \end.
+   -- Unknown index keyword \item\label.
 !! Input index error (file = a.tex, line = 70):
+   -- Unknown index keyword \item\label.
+!! Input index error (file = a.tex, line = 71):
+   -- Unknown index keyword \item\label.
+!! Input index error (file = a.tex, line = 72):
+   -- Unknown index keyword \item\label.
+!! Input index error (file = a.tex, line = 73):
    -- Unknown index keyword \end.
-done (0 entries accepted, 65 rejected).
+!! Input index error (file = a.tex, line = 74):
+   -- Unknown index keyword \subsection.
+!! Input index error (file = a.tex, line = 75):
+   -- Unknown index keyword \subsubsection.
+!! Input index error (file = a.tex, line = 76):
+   -- Unknown index keyword Umcircuitointegradoréumcomponenteeletrônicocontendoelementos,comofontedetensão[\ref.
+!! Input index error (file = a.tex, line = 77):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 78):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 79):
+   -- Unknown index keyword \label.
+!! Input index error (file = a.tex, line = 80):
+   -- Unknown index keyword \includegraphics[scale=0.5].
+!! Input index error (file = a.tex, line = 81):
+   -- Unknown index keyword \caption.
+!! Input index error (file = a.tex, line = 82):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 83):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 84):
+   -- Unknown index keyword \item\textbf.
+!! Input index error (file = a.tex, line = 85):
+   -- Unknown index keyword \item\textbf.
+!! Input index error (file = a.tex, line = 86):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 87):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 88):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 83 rejected).
 Nothing written in a.ind.
 Transcript written in a.ilg.

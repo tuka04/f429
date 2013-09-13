@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.5.29)  12 SEP 2013 17:25
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.4.14)  12 SEP 2013 22:50
 entering extended mode
  %&-line parsing enabled.
 **a.tex
@@ -13,8 +13,8 @@ tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish,
 turkish, ukenglish, ukrainian, loaded.
 (/usr/share/texmf/tex/latex/base/article.cls
 Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
-(/usr/share/texmf/tex/latex/base/size10.clo
-File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+(/usr/share/texmf/tex/latex/base/size12.clo
+File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -390,24 +390,30 @@ Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 \@enLab=\toks23
 ) (./a.aux
 
-LaTeX Warning: Label `impger' multiply defined.
+LaTeX Warning: Label `imgint' multiply defined.
+
+
+LaTeX Warning: Label `itm:intdc' multiply defined.
+
+
+LaTeX Warning: Label `itm:intred' multiply defined.
 
 )
 \openout1 = `a.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 38.
  (/usr/share/texmf/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
@@ -440,20 +446,20 @@ driver: pdftex
 \headheight 0.0pt
 \headsep    0.0pt
 \footskip   0.0pt
-\marginparwidth 65.0pt
-\marginparsep   11.0pt
+\marginparwidth 44.0pt
+\marginparsep   10.0pt
 \columnsep  10.0pt
-\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\skip\footins  10.8pt plus 4.0pt minus 2.0pt
 \hoffset 0.0pt
 \voffset 0.0pt
 \mag 1000
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 39.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 40.
  (./a.toc
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
 )
 \tf@toc=\write3
@@ -471,58 +477,87 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
 [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 49.
 LaTeX Font Info:    Try loading font information for OMS+ppl on input line 52.
 
 (/usr/share/texmf/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
-LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 59.
 
-<impger.jpg, id=7, 401.5pt x 200.75pt>
+<impger.jpg, id=11, 401.5pt x 200.75pt>
 File: impger.jpg Graphic file (type jpg)
  <use impger.jpg>
-Overfull \hbox (32.0102pt too wide) in paragraph at lines 61--69
-\T1/ppl/m/n/10 Portanto, para [][], [][] e [][], te-mos: [],
+Overfull \hbox (110.69304pt too wide) in paragraph at lines 60--68
+\T1/ppl/m/n/12 Portanto, para [][], [][] e [][], te-mos: [],
  []
 
-[2 <./impger.jpg>]
-Overfull \hbox (47.88763pt too wide) in paragraph at lines 70--71
-[]\T1/ppl/b/n/10 Resistência em sé-rie do in-du-tor ($\OML/cmm/m/it/10 R[]$\T1/
-ppl/b/n/10 )\T1/ppl/m/n/10 : O cál-culo de $\OML/cmm/m/it/10 R[]$ \T1/ppl/m/n/1
-0 foi apre-sen-tado no re-la-tó-rio I, re-sul-tando em []. 
- []
-
-<integrador.jpg, id=21, 351.3125pt x 210.7875pt>
+[2 <./impger.jpg>] <integrador.jpg, id=22, 351.3125pt x 210.7875pt>
 File: integrador.jpg Graphic file (type jpg)
- <use integrador.jpg> [3 <./integrador.jpg>] (./a.aux)
+
+<use integrador.jpg> [3 <./integrador.jpg>]
+<img/fd40int.jpg, id=27, 1003.75pt x 411.5375pt>
+File: img/fd40int.jpg Graphic file (type jpg)
+ <use img/fd40int.jpg>
+Overfull \hbox (21.46902pt too wide) in paragraph at lines 94--95
+ [][] 
+ []
+
+<img/fint.jpg, id=28, 1646.15pt x 411.5375pt>
+File: img/fint.jpg Graphic file (type jpg)
+ <use img/fint.jpg>
+Overfull \hbox (26.29477pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+<img/f40int.jpg, id=29, 1505.625pt x 401.5pt>
+File: img/f40int.jpg Graphic file (type jpg)
+ <use img/f40int.jpg>
+Overfull \hbox (26.49266pt too wide) in paragraph at lines 106--107
+ [][] 
+ []
+
+[4 <./img/fd40int.jpg> <./img/fint.jpg>]
+<diferenciador.jpg, id=33, 351.3125pt x 210.7875pt>
+File: diferenciador.jpg Graphic file (type jpg)
+ <use diferenciador.jpg>
+<img/fd40d.jpg, id=34, 803.0pt x 200.75pt>
+File: img/fd40d.jpg Graphic file (type jpg)
+ <use img/fd40d.jpg>
+<img/fd.jpg, id=35, 803.0pt x 200.75pt>
+File: img/fd.jpg Graphic file (type jpg)
+ <use img/fd.jpg>
+<img/f40d.jpg, id=36, 1907.125pt x 501.875pt>
+File: img/f40d.jpg Graphic file (type jpg)
+ <use img/f40d.jpg> [5 <./img/f40int.jpg> <./diferenciador.jpg>] [6 <./img/fd40
+d.jpg> <./img/fd.jpg> <./img/f40d.jpg>] (./a.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2717 strings out of 256216
- 31169 string characters out of 1917072
- 95741 words of memory out of 1500000
- 5954 multiletter control sequences out of 10000+200000
- 22044 words of font info for 44 fonts, out of 1200000 for 2000
+ 2771 strings out of 256216
+ 31943 string characters out of 1917072
+ 94749 words of memory out of 1500000
+ 5998 multiletter control sequences out of 10000+200000
+ 23182 words of font info for 48 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 27i,8n,28p,1057b,310s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 27i,8n,28p,1039b,322s stack positions out of 5000i,500n,6000p,200000b,15000s
 {/usr/share/texmf/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/b
 luesky/cm/cmex10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></usr/
-share/texmf/fonts/type1/bluesky/cm/cmmi6.pfb></usr/share/texmf/fonts/type1/blue
-sky/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share
-/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/c
-m/cmr5.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/
-fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10
-.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf/fonts
-/type1/urw/palatino/uplb8a.pfb></usr/share/texmf/fonts/type1/urw/palatino/uplr8
-a.pfb>
-Output written on a.pdf (3 pages, 132841 bytes).
+share/texmf/fonts/type1/bluesky/cm/cmmi12.pfb></usr/share/texmf/fonts/type1/blu
+esky/cm/cmmi6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi7.pfb></usr/shar
+e/texmf/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bluesky/
+cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/tex
+mf/fonts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr
+8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fon
+ts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/urw/palatino/uplb8a
+.pfb></usr/share/texmf/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on a.pdf (6 pages, 3481102 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

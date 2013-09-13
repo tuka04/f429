@@ -1,3 +1,10 @@
 \select@language {brazil}
 \contentsline {figure}{\numberline {1}{\ignorespaces Circuito representativo para medida da resist\IeC {\^e}ncia interna do gerador}}{2}
 \contentsline {figure}{\numberline {2}{\ignorespaces Circuito integrador ou Filtro passa-baixa}}{3}
+\contentsline {figure}{\numberline {3}{\ignorespaces Circuito integrador $f_c \approx 120,51Hz$}}{4}
+\contentsline {figure}{\numberline {4}{\ignorespaces Circuito integrador $f_c$}}{4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Circuito integrador $f_c \approx 192,80kHz$}}{5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Circuito diferenciador ou Filtro passa-alta}}{5}
+\contentsline {figure}{\numberline {7}{\ignorespaces Circuito diferenciador $f_c \approx 120,51Hz$}}{6}
+\contentsline {figure}{\numberline {8}{\ignorespaces Circuito diferenciador $f_c$}}{6}
+\contentsline {figure}{\numberline {9}{\ignorespaces Circuito diferenciador $f_c \approx 192,80kHz$}}{6}

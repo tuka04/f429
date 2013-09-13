@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.4.14)  12 SEP 2013 22:50
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.4.14)  12 SEP 2013 23:03
 entering extended mode
  %&-line parsing enabled.
 **a.tex
@@ -523,25 +523,29 @@ Overfull \hbox (26.49266pt too wide) in paragraph at lines 106--107
 <diferenciador.jpg, id=33, 351.3125pt x 210.7875pt>
 File: diferenciador.jpg Graphic file (type jpg)
  <use diferenciador.jpg>
-<img/fd40d.jpg, id=34, 803.0pt x 200.75pt>
+[5 <./img/f40int.jpg> <./diferenciador.jpg>]
+<img/fd40d.jpg, id=37, 803.0pt x 200.75pt>
 File: img/fd40d.jpg Graphic file (type jpg)
  <use img/fd40d.jpg>
-<img/fd.jpg, id=35, 803.0pt x 200.75pt>
+<img/fd.jpg, id=38, 803.0pt x 200.75pt>
 File: img/fd.jpg Graphic file (type jpg)
  <use img/fd.jpg>
-<img/f40d.jpg, id=36, 1907.125pt x 501.875pt>
+<img/f40d.jpg, id=39, 1907.125pt x 501.875pt>
 File: img/f40d.jpg Graphic file (type jpg)
- <use img/f40d.jpg> [5 <./img/f40int.jpg> <./diferenciador.jpg>] [6 <./img/fd40
-d.jpg> <./img/fd.jpg> <./img/f40d.jpg>] (./a.aux)
+ <use img/f40d.jpg>
+<img/rlc.jpg, id=40, 501.875pt x 301.125pt>
+File: img/rlc.jpg Graphic file (type jpg)
+ <use img/rlc.jpg> [6 <./img/fd40d.jpg> <./img/fd.jpg> <./img/f40d.jpg>] [7 <./
+img/rlc.jpg>] (./a.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2771 strings out of 256216
- 31943 string characters out of 1917072
+ 2777 strings out of 256216
+ 32021 string characters out of 1917072
  94749 words of memory out of 1500000
- 5998 multiletter control sequences out of 10000+200000
+ 6003 multiletter control sequences out of 10000+200000
  23182 words of font info for 48 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
  27i,8n,28p,1039b,322s stack positions out of 5000i,500n,6000p,200000b,15000s
@@ -555,9 +559,9 @@ mf/fonts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr
 8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fon
 ts/type1/bluesky/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/urw/palatino/uplb8a
 .pfb></usr/share/texmf/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on a.pdf (6 pages, 3481102 bytes).
+Output written on a.pdf (7 pages, 3519700 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 93 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

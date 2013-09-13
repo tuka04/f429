@@ -289,7 +289,43 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 149):
    -- Unknown index keyword \end.
 !! Input index error (file = a.tex, line = 150):
+   -- Unknown index keyword \section.
+!! Input index error (file = a.tex, line = 151):
+   -- Unknown index keyword Nesteexperimento,montamosumcircuitoRLC,deacordocomafigura[\ref.
+!! Input index error (file = a.tex, line = 152):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 153):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 154):
+   -- Unknown index keyword \label.
+!! Input index error (file = a.tex, line = 155):
+   -- Unknown index keyword \includegraphics[scale=0.5].
+!! Input index error (file = a.tex, line = 156):
+   -- Unknown index keyword \caption.
+!! Input index error (file = a.tex, line = 157):
    -- Unknown index keyword \end.
-done (0 entries accepted, 145 rejected).
+!! Input index error (file = a.tex, line = 158):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 159):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 160):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 161):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 162):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 163):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 164):
+   -- Unknown index keyword \itemVariamosaresistênciadedécadasparaverificarmosquef0\textbf.
+!! Input index error (file = a.tex, line = 165):
+   -- Unknown index keyword \itemApósisso,aliementamosocircuitocomondasquadradaseajustamosafrequênciadogeradordeformaagarantirqueacorrentezeraacasasemiciclo($T<10\cdot\tau$),ondeTéoperiododeondae$\tau=\frac.
+!! Input index error (file = a.tex, line = 166):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 167):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 168):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 163 rejected).
 Nothing written in a.ind.
 Transcript written in a.ilg.

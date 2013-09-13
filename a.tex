@@ -87,7 +87,7 @@ Um circuito integrador é um componente eletrônico contendo elementos, como fon
 Portanto, para um passa-baixa temos: $T(jw) = \frac{K}{1 + j(\frac{w}{w_0})}$ e a frequência de corte $f_c = \frac{1}{\tau \cdot 2\pi}$.
 \subitem \label{itm:intdc} \textbf{Transmissão DC}: Em uma transmisao DC, ou seja, $f = 0Hz (w = 0)$, temos $T(jw) = K$.
 \item \textbf{Metodologia}: Montamos o circuito conforme a figura acima, monitorando a $V_1$ e $V_2$ no osciloscópio, variando as formas de onda\footnote{quadrada, triângular e senoíde} e a frequência ( $\frac{f_c}{40}$ , $f_c$, $40f_c$ ). Modificamos, também, o nível DC entre -1V e +1V e observamos o efeito provocado.
-\item \label{itm:intred} \textbf{Resultados}: Dado em \ref{itm:passabaixa}, combinando com \ref{itm:capacitor} e \ref{itm:r150}, temos $f_c \approx 4,8881Hz$.
+\item \label{itm:intred} \textbf{Resultados e Discussões}: Dado em \ref{itm:passabaixa}, combinando com \ref{itm:capacitor} e \ref{itm:r150}, temos $f_c \approx 4,8881Hz$.
 \begin{figure}[!htb]
   \centering
   \label{fd40int}
@@ -125,7 +125,7 @@ O circuito RC diferenciador assemelha-se ao integrador, apenas alteramos a confi
 Portanto, para um passa-alta temos: $T(jw) = \frac{K}{1 - j(\frac{w_0}{w})}$ e a frequência de corte $f_c = \frac{1}{\tau \cdot 2\pi}$.
 \subitem \label{itm:intdc} \textbf{Transmissão DC}: Em uma transmisao DC, ou seja, $f = 0Hz (w = 0)$, temos $T(jw) = 0$.
 \item \textbf{Metodologia}: Montamos o circuito conforme a figura acima, monitorando a $V_1$ e $V_2$ no osciloscópio, variando as formas de onda\footnote{quadrada, triângular e senoíde} e a frequência ( $\frac{f_c}{40}$ , $f_c$, $40f_c$ ). Modificamos, também, o nível DC entre -1V e +1V e observamos o efeito provocado.
-\item \label{itm:intred} \textbf{Resultados}: Dado para um filtro passa-alta \ref{itm:passaalta}, combinando com o capacitor \ref{itm:capacitor} e resistor \ref{itm:r150}, temos:
+\item \label{itm:intred} \textbf{Resultados e Discussões}: Dado para um filtro passa-alta \ref{itm:passaalta}, combinando com o capacitor \ref{itm:capacitor} e resistor \ref{itm:r150}, temos:
 \begin{figure}[!htb]
   \centering
   \label{fd40d}
@@ -146,6 +146,24 @@ Portanto, para um passa-alta temos: $T(jw) = \frac{K}{1 - j(\frac{w_0}{w})}$ e a
 \end{figure}
 Para \ref{fd40d}, ou seja, frequências aquém de $f_c$, temos um circuito integrador, conforme observado na figura \ref{fd40d}, na qual para a onda triângular, fica claro que, a derivada de uma reta é uma constante. Já para frequência bem próxima a $f_c$ temos uma distorção na saída, e para $f >> f_c, ou seja, f \approx 40f_c$ temos $V_1 \approx V_2$, visto que temos um filtro passa-alta. 
 A variação do sinal DC não modificou a saída $V_2$, uma vez que, o capacitor carrega-se rápidamente em tensão/corrente DC e, diferentemente de uma onda variável no tempo, o capacitor não se descarregará.
+\end{enumerate}
+\section{Circuito RLC}
+Neste experimento, montamos um circuito RLC, de acordo com a figura abaixo. Onde $R_L$[\ref{itm:rindutor}] é a resistência inerente ao indutor, L[\ref{itm:indutor}] o indutor, C[\ref{itm:capacitor}] o capacitor e $R_D$ é a resistência de década. $R_g$ é a resistência interna do gerador.
+\begin{figure}[!htb]
+  \centering
+  \label{imgrlc}
+  \includegraphics[scale=0.5]{img/rlc.jpg}
+  \caption{Circuito RLC}
+\end{figure}
+A resistência interna do gerador foi determinada medindo a voltagem de circuito aberto e a voltagem quando conectado a um resistor de 47 ohms, já a RL foi medida com um multímetro. O valor da capacitância e da indutância foi determinada com o método da figura de Lissajous.\\
+Com as medidas em mãos iniciamos nosso experimento com o procedimento descrito abaixo:
+\begin{enumerate}[I]
+\item O osciloscópio configurado para monitorar a voltagem no gerador e a corrente, ou seja no canal 2 está a resistência de décadas.
+\item Ligamos o gerador de forma a alimentar o circuito com o formato de onda senoidal.
+\item Determinamos a frequencia de ressonância - $f_0$ - pelo método de Lissajous.
+\item Variamos a resistência de décadas para verificarmos que f0 \textbf{NÃO} depende de $R_d$.
+\item Após isso, aliementamos o circuito com ondas quadradas e ajustamos a frequência do gerador de forma a garantir que a corrente zera a casa semiciclo ( $ T < 10 \cdot \tau $), onde T é o periodo de onda e $\tau=\frac{2L}{R}$.
+\item Variando a resistência de década pudemos observar a mudança dos regimes de amortecimento.
 \end{enumerate}
 \end{document}
 

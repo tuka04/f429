@@ -11,3 +11,4 @@
 \contentsline {section}{\numberline {3}Circuito RC}{3}
 \contentsline {subsubsection}{\numberline {3.0.7}Integrador}{3}
 \contentsline {subsubsection}{\numberline {3.0.8}Diferenciador}{5}
+\contentsline {section}{\numberline {4}Circuito RLC}{7}

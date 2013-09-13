@@ -533,7 +533,19 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 272):
    -- Unknown index keyword ConformeobservamosnoscircuitosRC,obtivemosarespostaesperadaparaaltasfrequênciasemumpassa-baixa,ouseja,atuandocomoumintegrador.Omesmofoiobservadonocircuitodiferenciador,sendoparabaixasfrequências,quandoesteestásendoalimentadocomumatensãodefrequênciaalta,omesmofuncionacomoum\emph.
 !! Input index error (file = a.tex, line = 273):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 274):
+   -- Unknown index keyword \section.
+!! Input index error (file = a.tex, line = 275):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 276):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 277):
+   -- Unknown index keyword \item\url.
+!! Input index error (file = a.tex, line = 278):
    -- Unknown index keyword \end.
-done (0 entries accepted, 267 rejected).
+!! Input index error (file = a.tex, line = 279):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 273 rejected).
 Nothing written in a.ind.
 Transcript written in a.ilg.

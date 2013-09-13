@@ -1,11 +1,20 @@
 \select@language {brazil}
-\contentsline {figure}{\numberline {1}{\ignorespaces Circuito representativo para medida da resist\IeC {\^e}ncia interna do gerador}}{2}
-\contentsline {figure}{\numberline {2}{\ignorespaces Circuito integrador ou Filtro passa-baixa}}{3}
-\contentsline {figure}{\numberline {3}{\ignorespaces Circuito integrador $f_c \approx 120,51Hz$}}{4}
-\contentsline {figure}{\numberline {4}{\ignorespaces Circuito integrador $f_c$}}{4}
-\contentsline {figure}{\numberline {5}{\ignorespaces Circuito integrador $f_c \approx 192,80kHz$}}{5}
-\contentsline {figure}{\numberline {6}{\ignorespaces Circuito diferenciador ou Filtro passa-alta}}{5}
-\contentsline {figure}{\numberline {7}{\ignorespaces Circuito diferenciador $f_c \approx 120,51Hz$}}{6}
-\contentsline {figure}{\numberline {8}{\ignorespaces Circuito diferenciador $f_c$}}{6}
-\contentsline {figure}{\numberline {9}{\ignorespaces Circuito diferenciador $f_c \approx 192,80kHz$}}{6}
-\contentsline {figure}{\numberline {10}{\ignorespaces Circuito RLC}}{7}
+\contentsline {figure}{\numberline {1}{\ignorespaces Circuito representativo para medida da resist\IeC {\^e}ncia interna do gerador}}{3}
+\contentsline {figure}{\numberline {2}{\ignorespaces Circuito integrador ou Filtro passa-baixa}}{4}
+\contentsline {figure}{\numberline {3}{\ignorespaces Circuito integrador $f_c \approx 120,51Hz$}}{5}
+\contentsline {figure}{\numberline {4}{\ignorespaces Circuito integrador $f_c$}}{5}
+\contentsline {figure}{\numberline {5}{\ignorespaces Circuito integrador $f_c \approx 192,80kHz$}}{6}
+\contentsline {figure}{\numberline {6}{\ignorespaces Circuito diferenciador ou Filtro passa-alta}}{6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Circuito diferenciador $f_c \approx 120,51Hz$}}{7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Circuito diferenciador $f_c$}}{7}
+\contentsline {figure}{\numberline {9}{\ignorespaces Circuito diferenciador $f_c \approx 192,80kHz$}}{7}
+\contentsline {figure}{\numberline {10}{\ignorespaces Circuito diferenciador descontinuidade}}{8}
+\contentsline {figure}{\numberline {11}{\ignorespaces Circuito RLC}}{8}
+\contentsline {figure}{\numberline {12}{\ignorespaces Componentes em estado subamorticidos}}{9}
+\contentsline {figure}{\numberline {13}{\ignorespaces Resistor, Capacitor e Indutor subamortecidos}}{10}
+\contentsline {figure}{\numberline {14}{\ignorespaces Equa\IeC {\c c}\IeC {\~o}es dos amortecimentos}}{10}
+\contentsline {figure}{\numberline {15}{\ignorespaces Sobre-amortecido e amortecimento cr\IeC {\'\i }tico te\IeC {\'o}ricos}}{11}
+\contentsline {figure}{\numberline {16}{\ignorespaces Resistor sobre-amortecido e criticamente amortecido}}{11}
+\contentsline {figure}{\numberline {17}{\ignorespaces Indutor sobre-amortecido e criticamente amortecido}}{11}
+\contentsline {figure}{\numberline {18}{\ignorespaces M\IeC {\'a}ximos e m\IeC {\'\i }nimos locais acima do eixo V}}{12}
+\contentsline {figure}{\numberline {19}{\ignorespaces M\IeC {\'a}ximos e m\IeC {\'\i }nimos locais abaixo do eixo V}}{13}

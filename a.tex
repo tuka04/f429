@@ -175,7 +175,7 @@ Com as medidas em mãos iniciamos nosso experimento com o procedimento descrito 
 \subsection{Teoria e Experimento}
 Nesta parte, iremos tratar da teoria e ao mesmo tempo mostraremos os dados experiementais, de forma a melhor confrontar um com o outro.\\
 Na presente parte do experimento analisamos os transientes não repetitivos em um circuito ressoante série ao ligarmos uma voltagem constante, que está indicada nas fotos e legendas. O gerador fornece uma forma de onda que vale 0 para $t < 0$ e uma constante $E_{pp}$, para t positivo, ou seja: $E(t) = E_{pp}\mu (t)$, sendo $\mu (t)$ uma função degrau, ou Heaviside\footnote{\url{http://www.scribd.com/doc/15995098/21/Transientes-no-circuito-ressonante-serie}}.\\
-A equação de malha do circuito RLC série é: $ L \frac{d^2q}{dt^2} + R\frac{dq}{dt} +\frac{Q}{C} = E_{pp}\mu$ e o fator de merito do circuito ressonante série, que caracteriza a acuidade da curva de ressonância dada pela equação: $ Q = \omega_0 \cdot \frac{L}{R} = \frac{\omega}{\Delta \omega}$, sendo $q = q(t)$ a carga instantânea no capacitor, e esta equação por ser uma diferencial de segundo grau depende de duas condições iniciais. Como na função degrau a voltagem é zero para todo $t < 0$, o capacitor não pode estar carregado e a corrente não estaria passado em $t = 0$. Portanto temos: $ q(t) = C E_{pp}[1 - e^{\frac{-t}{\tau}}(cos(\omega t) + \frac{1}{\omega \tau}sen(\omega t))]$. Assim obtemos a frequência natural de oscilação $\omega$. As oscilações são amortecidas exponencialmente com a constante de tempo $\tau$, como a figura abaixo mostra a resposta esperada do sub-amorteciemento:
+A equação de malha do circuito RLC série é: $ L \frac{d^2q}{dt^2} + R\frac{dq}{dt} +\frac{Q}{C} = E_{pp}\mu$ e o fator de mérito do circuito ressonante série, que caracteriza a acuidade da curva de ressonância dada pela equação: $ Q = \omega_0 \cdot \frac{L}{R} = \frac{\omega}{\Delta \omega}$, sendo $q = q(t)$ a carga instantânea no capacitor, e esta equação por ser uma diferencial de segundo grau depende de duas condições iniciais. Como na função degrau a voltagem é zero para todo $t < 0$, o capacitor não pode estar carregado e a corrente não estaria passado em $t = 0$. Portanto temos: $ q(t) = C E_{pp}[1 - e^{\frac{-t}{\tau}}(cos(\omega t) + \frac{1}{\omega \tau}sen(\omega t))]$. Assim obtemos a frequência natural de oscilação $\omega$. As oscilações são amortecidas exponencialmente com a constante de tempo $\tau$, como a figura abaixo mostra a resposta esperada do sub-amorteciemento:
 \begin{figure}[!htb]
   \centering
   \label{subteo}
@@ -195,7 +195,6 @@ E conforme podemos ver na figura seguinte, obtivemos os gráficos:
 \\
 \\
 \\
-
 Como podemos ver, as fotos do experiementais condizem com os gráficos traçados na figura acima.
 Agora ao tratarmos o sobre-amortecimento temos a equação o $\omega = j \beta$, j é um imaginário puro onde: $q(t)=C E_{pp}[1 - e^{\frac{-t}{\tau}}(cosh(\beta t)+ \frac{1}{\beta t}sen(\beta t))] (Q < \frac{1}{2}) $ E no caso de amortecimento crítico temos $\omega = 0$ e como solução da equação diferencial temos: $q(t) = C E_{pp}[1 - (1 + \frac{t}{\tau})e^{\frac{-t}{\tau}}] (Q = \frac{1}{2})$\\
 Com as cargas definidas temos as voltagens dadas por: $V_c = \frac{q}{C}; V_R = R \frac{dq}{dt} e V_L = L \frac{d^2q}{dt^2}$.\\
@@ -226,7 +225,7 @@ E abaixo temos as fotos obtidas em nosso experimento:
   \includegraphics[scale=0.18]{img/indcrit.jpg}
   \caption{Indutor sobre-amortecido e criticamente amortecido}
 \end{figure}
-Agora por fim no experimento, colocamos para resistências pequenas ( da ordem de 10$\Omega$ ) obtemos as seguintes fotos:
+Agora, por fim, no experimento, colocamos para resistências pequenas ( da ordem de 10$\Omega$ ) obtemos as seguintes fotos:
 \begin{figure}[!htb]
   \centering
   \label{tabela}
@@ -240,7 +239,37 @@ Agora por fim no experimento, colocamos para resistências pequenas ( da ordem d
   \includegraphics[scale=0.20]{img/abixo.png}
   \caption{Máximos e mínimos locais abaixo do eixo V}
 \end{figure}
-Podemos ver a amplitude $A_n$ nos máximos e mínimos locais como função do tempo e a frequência de oscilação, $f$.
+Podemos ver a amplitude $A_n$ nos máximos e mínimos locais como função do tempo e a frequência de oscilação, $f_n$.
+\begin{table}
+  \tiny
+  \centering
+  \begin{tabular}{|c|c|c|c|c|c|c|c|}
+    \hline
+    $A_n$ & Tempo ($10^{-6}$) & Escala V & Escala T & Erro V & Erro T & Tempo & $ln(A_n)$\\
+    \hline
+    \input{img/tab.tex}    
+    \hline
+  \end{tabular}
+  \caption{Tabela de dados (Amplitudo e Tempo)}
+\end{table}
+\begin{figure}[!htb]
+  \centering
+  \label{mysub}
+  \includegraphics[scale=0.50]{img/g1.jpg}
+  \caption{Gráfico Amplitude X Tempo}
+\end{figure}
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+
+\section{Conclusão}
+Conforme observamos nos circuitos RC, obtivemos a resposta esperada para altas frequências em um passa-baixa, ou seja, atuando como um integrador. O mesmo foi observado no circuito diferenciador, sendo para baixas frequências, quando este está sendo alimentado com uma tensão de frequência alta, o mesmo funciona como um \emph{buffer}, ou seguidor de tensão \footnote{no circuito passa-baixa esse efeito é observado para baixas freq.}.
 \end{document}
 
 

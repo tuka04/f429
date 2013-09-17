@@ -1,0 +1,8 @@
+\select@language {brazil}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {section}{\numberline {2}Instrumentos e Componentes}{2}
+\contentsline {subsection}{\numberline {2.1}Medidas}{2}
+\contentsline {subsubsection}{\numberline {2.1.1}Resist\IeC {\^e}ncias}{2}
+\contentsline {subsubsection}{\numberline {2.1.2}Capacit\IeC {\^a}ncia}{2}
+\contentsline {subsubsection}{\numberline {2.1.3}Resist\IeC {\^e}ncia em s\IeC {\'e}rie do indutor ($R_L$)}{2}
+\contentsline {subsubsection}{\numberline {2.1.4}Indut\IeC {\^a}ncias}{3}

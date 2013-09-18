@@ -57,11 +57,11 @@ Os instrumentos e componentes utilizados estão listados abaixo com seus respect
 \begin{itemize}
 \item{$R_{4,7} \approx 5.1\Omega \pm 0.15\Omega$}
 \item{$R_{150} \approx 149.3\Omega \pm 1.59\Omega$}
-\item{$R_{1k} \approx 1001\Omega \pm 10.11\Omega$}
-\item{$R_{5k} \approx 5.07k\Omega \pm 57.1\Omega$}
+\item{$R_{1k} \approx 1001\Omega \pm 10.11\Omega$} \label{itm:r1k}
+\item{$R_{5k} \approx 5.07k\Omega \pm 57.1\Omega$} \label{itm:r5k}
 \item{$R_{100k} \approx 98.3k\Omega \pm 983.1\Omega$}
 \end{itemize}
-\subsubsection{Capacitância} \label{itm:ccap}: Esta foi medida previamente em experimentos anteriores $C_{022} = 0.2236\mu F \pm 0.0191\mu$
+\subsubsection{Capacitância} \label{itm:ccap} Esta foi medida previamente em experimentos anteriores $C_{022} = 0.2236\mu F \pm 0.0191\mu$F
 \subsubsection{Resistência em série do indutor ($R_L$)} \label{itm:rindutor}  O cálculo das resistências internas dos indutores de 50mH e 3mH são, $R_{L50} = 46.5\Omega R_{L3} = 3.3\Omega$, respectivamente. Para estas medidas, também, foi utilizado o multímetro.
 \subsubsection{Indutâncias} \label{itm:iindutor} Nas medidas de indutâncias utilizamos o método da figura de Lissajous. Montamos um circuito RLC em série com o capacitor de 0.22$\mu$F[\ref{itm:ccap}] e um resistor qualquer\footnote{Bons resultados são obtivos com $R < 1k\Omega$}.\\
 Dado que\footnote{\url{http://www.ifi.unicamp.br/~gustavo/disciplinas/f429/sobre_erros_hugo_fragnito.pdf1}},
@@ -70,4 +70,17 @@ Dado que\footnote{\url{http://www.ifi.unicamp.br/~gustavo/disciplinas/f429/sobre
 \item $\Delta{L} = L \cdot \sqrt{(\frac{2\Delta f_0}{f_0})^2 + (\frac{\Delta C}{C})^2} \approx L \frac{\Delta C}{C}$
 \end{enumerate}
 Obtivemos, $f_{0_{50}} \approx 1.5554kHz$ e $f_{0_3} \approx 6.2411kHz$, então, \boxed{L_{50} \approx 46.82mH \pm 3.99mH} para o indutor de valor nominal 50mH e \boxed{L_{3} \approx 2.91mH \pm 0.25mH} para o de 3mH.
+\subsubsection{Tensões no transformador} \label{itm:ttrans} Para as medidas das tensões primeiramente utilizamos o resistor de $R_{5k}$[\ref{itm:r5k}]. Porém, não conseguimos atingir a tensão máxima de 20.0V, com isso trocamos o resistor pelo $R_{1k}$[\ref{itm:r1k}]. O problema, entretanto, não foi resolvido pois, o último resistor limitava a tensão máxima em $V_{entrada}$ $\approx$ 9.0V, ou seja, o mesmo atuava como um divisor de tensão. Logo, retornamos as medidas utilizando o resistor de valor dado em sala de aula ($R_{5k}$) e variamos $V_{entrada}$ entre 1.0V e 11V.
+\begin{table}
+  \tiny
+  \centering
+  \begin{tabular}{|c|c|c|c|}
+    \hline
+    $V_{entrada}$ [Volt] & Escala [Volt/div] & $V_{saida}$ [Volt] & Escala [Volt/div]\\
+    \hline
+    \input{dados/VinVout.tex}    
+    \hline
+  \end{tabular}
+  \caption{Tabela de dados $V_{entrada}$ e $V_{saida}$}
+\end{table}
 \end{document}

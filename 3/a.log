@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.4.14)  16 SEP 2013 21:50
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.4.14)  17 SEP 2013 21:49
 entering extended mode
  %&-line parsing enabled.
 **a.tex
@@ -487,27 +487,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--67
 s / f429 / sobre _ erros _ hugo _ fragnito .
  []
 
-[2] [3] (./a.aux) ) 
+[2] (./dados/VinVout.tex) [3] (./a.aux) ) 
 Here is how much of TeX's memory you used:
- 2741 strings out of 256216
- 31472 string characters out of 1917072
- 93749 words of memory out of 1500000
- 5974 multiletter control sequences out of 10000+200000
- 23803 words of font info for 50 fonts, out of 1200000 for 2000
+ 2750 strings out of 256216
+ 31569 string characters out of 1917072
+ 94749 words of memory out of 1500000
+ 5978 multiletter control sequences out of 10000+200000
+ 25409 words of font info for 52 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 27i,8n,28p,775b,262s stack positions out of 5000i,500n,6000p,200000b,15000s
-{/usr/share/texmf/fonts/enc/dvips/base/8r.enc}</usr/share/te
-xmf/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/
-cmmi10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi12.pfb></usr/share/texm
-f/fonts/type1/bluesky/cm/cmmi8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr
-10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf/fon
-ts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr8.pfb>
-</usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/typ
-e1/urw/courier/ucrr8a.pfb></usr/share/texmf/fonts/type1/urw/palatino/uplb8a.pfb
-></usr/share/texmf/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on a.pdf (3 pages, 90740 bytes).
+ 27i,10n,28p,775b,262s stack positions out of 5000i,500n,6000p,200000b,15000s
+{/usr/share/texmf/fonts/enc/dvips/base
+/8r.enc}</usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf/f
+onts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi1
+2.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi5.pfb></usr/share/texmf/font
+s/type1/bluesky/cm/cmmi6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi8.pfb
+></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/typ
+e1/bluesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr6.pfb></usr
+/share/texmf/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/blue
+sky/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/urw/courier/ucrr8a.pfb></usr/sh
+are/texmf/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf/fonts/type1/urw
+/palatino/uplr8a.pfb>
+Output written on a.pdf (3 pages, 100943 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

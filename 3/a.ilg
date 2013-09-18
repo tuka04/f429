@@ -123,19 +123,47 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 65):
    -- Unknown index keyword \subsubsection.
 !! Input index error (file = a.tex, line = 66):
-   -- Unknown index keyword Dadoque\footnote.
+   -- Unknown index keyword \subsubsection.
 !! Input index error (file = a.tex, line = 67):
-   -- Unknown index keyword \begin.
+   -- Unknown index keyword Dadoque\footnote.
 !! Input index error (file = a.tex, line = 68):
-   -- Unknown index keyword \item$L=\frac.
+   -- Unknown index keyword \begin.
 !! Input index error (file = a.tex, line = 69):
-   -- Unknown index keyword \item$\Delta.
+   -- Unknown index keyword \item$L=\frac.
 !! Input index error (file = a.tex, line = 70):
-   -- Unknown index keyword \end.
+   -- Unknown index keyword \item$\Delta.
 !! Input index error (file = a.tex, line = 71):
-   -- Unknown index keyword Obtivemos,$f_.
-!! Input index error (file = a.tex, line = 72):
    -- Unknown index keyword \end.
-done (0 entries accepted, 68 rejected).
+!! Input index error (file = a.tex, line = 72):
+   -- Unknown index keyword Obtivemos,$f_.
+!! Input index error (file = a.tex, line = 73):
+   -- Unknown index keyword \subsubsection.
+!! Input index error (file = a.tex, line = 74):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 75):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 76):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 77):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 78):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 79):
+   -- Unknown index keyword $V_.
+!! Input index error (file = a.tex, line = 80):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 81):
+   -- Unknown index keyword \input.
+!! Input index error (file = a.tex, line = 82):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 83):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 84):
+   -- Unknown index keyword \caption.
+!! Input index error (file = a.tex, line = 85):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 86):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 82 rejected).
 Nothing written in a.ind.
 Transcript written in a.ilg.

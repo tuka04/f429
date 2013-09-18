@@ -6,3 +6,4 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Capacit\IeC {\^a}ncia}{2}
 \contentsline {subsubsection}{\numberline {2.1.3}Resist\IeC {\^e}ncia em s\IeC {\'e}rie do indutor ($R_L$)}{2}
 \contentsline {subsubsection}{\numberline {2.1.4}Indut\IeC {\^a}ncias}{3}
+\contentsline {subsubsection}{\numberline {2.1.5}Tens\IeC {\~o}es no transformador}{3}

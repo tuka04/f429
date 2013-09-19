@@ -139,31 +139,51 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 73):
    -- Unknown index keyword \subsubsection.
 !! Input index error (file = a.tex, line = 74):
-   -- Unknown index keyword \begin.
+   -- Unknown index keyword Montamosocircuitoconformeoesquemaabaixo,utilizamos$N_.
 !! Input index error (file = a.tex, line = 75):
-   -- Missing arguments -- need two (premature LFD).
+   -- Unknown index keyword \begin.
 !! Input index error (file = a.tex, line = 76):
    -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 77):
-   -- Unknown index keyword \begin.
+   -- Unknown index keyword \label.
 !! Input index error (file = a.tex, line = 78):
-   -- Missing arguments -- need two (premature LFD).
+   -- Unknown index keyword \includegraphics[scale=0.25].
 !! Input index error (file = a.tex, line = 79):
-   -- Unknown index keyword $V_.
-!! Input index error (file = a.tex, line = 80):
-   -- Missing arguments -- need two (premature LFD).
-!! Input index error (file = a.tex, line = 81):
-   -- Unknown index keyword \input.
-!! Input index error (file = a.tex, line = 82):
-   -- Missing arguments -- need two (premature LFD).
-!! Input index error (file = a.tex, line = 83):
-   -- Unknown index keyword \end.
-!! Input index error (file = a.tex, line = 84):
    -- Unknown index keyword \caption.
+!! Input index error (file = a.tex, line = 80):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 81):
+   -- Unknown index keyword Paraasmedidasdastensõesprimeiramenteutilizamosoresistorde$R_.
+!! Input index error (file = a.tex, line = 82):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 83):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 84):
+   -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 85):
-   -- Unknown index keyword \end.
+   -- Unknown index keyword \begin.
 !! Input index error (file = a.tex, line = 86):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 87):
+   -- Unknown index keyword $V_.
+!! Input index error (file = a.tex, line = 88):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 89):
+   -- Unknown index keyword \input.
+!! Input index error (file = a.tex, line = 90):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 91):
    -- Unknown index keyword \end.
-done (0 entries accepted, 82 rejected).
+!! Input index error (file = a.tex, line = 92):
+   -- Unknown index keyword \caption.
+!! Input index error (file = a.tex, line = 93):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 94):
+   -- Unknown index keyword Paraespirasinvertidas,onde$N_.
+!! Input index error (file = a.tex, line = 95):
+   -- Unknown index keyword \subsubsection.
+!! Input index error (file = a.tex, line = 97):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 92 rejected).
 Nothing written in a.ind.
 Transcript written in a.ilg.

@@ -70,7 +70,15 @@ Dado que\footnote{\url{http://www.ifi.unicamp.br/~gustavo/disciplinas/f429/sobre
 \item $\Delta{L} = L \cdot \sqrt{(\frac{2\Delta f_0}{f_0})^2 + (\frac{\Delta C}{C})^2} \approx L \frac{\Delta C}{C}$
 \end{enumerate}
 Obtivemos, $f_{0_{50}} \approx 1.5554kHz$ e $f_{0_3} \approx 6.2411kHz$, então, \boxed{L_{50} \approx 46.82mH \pm 3.99mH} para o indutor de valor nominal 50mH e \boxed{L_{3} \approx 2.91mH \pm 0.25mH} para o de 3mH.
-\subsubsection{Tensões no transformador} \label{itm:ttrans} Para as medidas das tensões primeiramente utilizamos o resistor de $R_{5k}$[\ref{itm:r5k}]. Porém, não conseguimos atingir a tensão máxima de 20.0V, com isso trocamos o resistor pelo $R_{1k}$[\ref{itm:r1k}]. O problema, entretanto, não foi resolvido pois, o último resistor limitava a tensão máxima em $V_{entrada}$ $\approx$ 9.0V, ou seja, o mesmo atuava como um divisor de tensão. Logo, retornamos as medidas utilizando o resistor de valor dado em sala de aula ($R_{5k}$) e variamos $V_{entrada}$ entre 1.0V e 11V.
+\subsubsection{Tensões no transformador} \label{itm:ttrans} 
+Montamos o circuito conforme o esquema abaixo, utilizamos $N_{2} \approx 1600 voltas e N_{1} \approx 400 voltas$.\\
+\begin{figure}[!htb]
+  \centering
+  \label{itransf}
+  \includegraphics[scale=0.25]{img/transf.jpg}
+  \caption{Circuito transformador: Medidas de ganho de tensão e resposta em frequência}
+\end{figure}
+Para as medidas das tensões primeiramente utilizamos o resistor de $R_{5k}$[\ref{itm:r5k}]. Porém, não conseguimos atingir a tensão máxima de 20.0V, com isso trocamos o resistor pelo $R_{1k}$[\ref{itm:r1k}]. O problema, entretanto, não foi resolvido pois, o último resistor limitava a tensão máxima em $V_{entrada}$ $\approx$ 9.0V, ou seja, o mesmo atuava como um divisor de tensão. Logo, retornamos as medidas utilizando o resistor de valor dado em sala de aula ($R_{5k}$) e variamos $V_{entrada}$ entre 1.0V e 11V. 
 \begin{table}
   \tiny
   \centering
@@ -83,4 +91,7 @@ Obtivemos, $f_{0_{50}} \approx 1.5554kHz$ e $f_{0_3} \approx 6.2411kHz$, então,
   \end{tabular}
   \caption{Tabela de dados $V_{entrada}$ e $V_{saida}$}
 \end{table}
+Para espiras invertidas, onde $N_{2} < N_{1}$, obtivemos $V_{entrada} = 1.02V (200.0\frac{mV}{div})$ e $V_{saida} = 206.0mV (50,0\frac{mV}{div})$.\\
+\subsubsection{Histerese}
+
 \end{document}

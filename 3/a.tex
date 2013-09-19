@@ -4,6 +4,7 @@
 
 \usepackage{amsmath}
 \usepackage{graphicx}
+\usepackage{subfig}
 \usepackage{indentfirst}
 \usepackage{url}
 \usepackage{mdwlist}
@@ -80,7 +81,6 @@ Montamos o circuito conforme o esquema abaixo, utilizamos $N_{2} \approx 1600 vo
 \end{figure}
 Para as medidas das tensões primeiramente utilizamos o resistor de $R_{5k}$[\ref{itm:r5k}]. Porém, não conseguimos atingir a tensão máxima de 20.0V, com isso trocamos o resistor pelo $R_{1k}$[\ref{itm:r1k}]. O problema, entretanto, não foi resolvido pois, o último resistor limitava a tensão máxima em $V_{entrada}$ $\approx$ 9.0V, ou seja, o mesmo atuava como um divisor de tensão. Logo, retornamos as medidas utilizando o resistor de valor dado em sala de aula ($R_{5k}$) e variamos $V_{entrada}$ entre 1.0V e 11V. 
 \begin{table}
-  \tiny
   \centering
   \begin{tabular}{|c|c|c|c|}
     \hline
@@ -91,7 +91,37 @@ Para as medidas das tensões primeiramente utilizamos o resistor de $R_{5k}$[\re
   \end{tabular}
   \caption{Tabela de dados $V_{entrada}$ e $V_{saida}$}
 \end{table}
-Para espiras invertidas, onde $N_{2} < N_{1}$, obtivemos $V_{entrada} = 1.02V (200.0\frac{mV}{div})$ e $V_{saida} = 206.0mV (50,0\frac{mV}{div})$.\\
+Plotamos a tabela acima no gráfico, visto em seguida, e calculamos utilizando o método dos mínimos quadrados\footnote{\url{http://pt.wikipedia.org/wiki/Metodo_dos_minimos_quadrados}}, como descrito abaixo:
+\begin{enumerate}
+\item $\overline{y} = b\overline{x} + a$
+\item $b = \frac{\sum_{i=1}^{N}(x_i - \overline{x})(y_i - \overline{y})}{\sum_{i=1}^{N}(x_i - \overline{x})^2}$
+\end{enumerate}
+Obtivemos os seguintes valores:
+\begin{enumerate}
+\item Coeficiente ângular\boxed{b \approx 0.2793 ; b^{-1} \approx 3.5809}
+\item \boxed{a \approx 0.0792}
+\end{enumerate}
+Portando, temos \boxed{A_V \approx 3.5809\frac{V}{V} \pm 0.0792s}
+\begin{figure}[!htb]
+  \centering
+  \label{itransf}
+  \includegraphics[scale=0.45]{img/grafico.jpg}
+  \caption{Gráfico $V_{saida}$ versus $V_{entrada}$}
+\end{figure}
+\\
+Para espiras invertidas, onde $N_{2} < N_{1}$, obtivemos $V_{entrada} = 1.02V (200.0\frac{mV}{div})$ e $V_{saida} = 206.0mV (50,0\frac{mV}{div})$.Logo temo um ganho $A_{V} \approx 0.2019$.
+\newpage
 \subsubsection{Histerese}
-
+Quando um material ferromagnético é exposto a um campo magnético e em seguida esse campo diminui de intensidade, o campo magnético \textbf{H} diminui mais rapidamente do que a densidade do fluxo magnético \textbf{B}, sendo assim quando \textbf{H} chega a zero, observamos uma densidade de fluxo remanescente \textbf{$B_{R}$}. Uma força, denominada coercisa, deve ser aplicada para reduzir \textbf{B} a zero.\\
+Esse fenômeno que causa o atraso entre \textbf{B} e \textbf{H} é denominada \textbf{histerese magnética} e abaixo observamos o \textbf{ciclo de histerese}\footnote{\url{http://en.wikipedia.org/wiki/Hysteresis}}.
+\begin{figure}[!htb]
+  \centering
+  \subfloat[f $\approx 20Hz$]{
+    \includegraphics[scale=0.35]{img/h20.jpg}
+  }
+  \subfloat[f $\approx 60Hz$]{
+    \includegraphics[scale=0.35]{img/h50.jpg}
+  }
+  \caption{Histereses}
+\end{figure}
 \end{document}

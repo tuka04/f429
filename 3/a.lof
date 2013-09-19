@@ -1,2 +1,6 @@
 \select@language {brazil}
 \contentsline {figure}{\numberline {1}{\ignorespaces Circuito transformador: Medidas de ganho de tens\IeC {\~a}o e resposta em frequ\IeC {\^e}ncia}}{3}
+\contentsline {figure}{\numberline {2}{\ignorespaces Gr\IeC {\'a}fico $V_{saida}$ versus $V_{entrada}$}}{4}
+\contentsline {figure}{\numberline {3}{\ignorespaces Histereses}}{5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f $\approx 20Hz$}}}{5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f $\approx 60Hz$}}}{5}

@@ -15,37 +15,37 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 9):
    -- Unknown index keyword \usepackage.
 !! Input index error (file = a.tex, line = 10):
-   -- Unknown index keyword \usepackage[compact].
+   -- Unknown index keyword \usepackage.
 !! Input index error (file = a.tex, line = 11):
-   -- Unknown index keyword \usepackage[T1].
+   -- Unknown index keyword \usepackage[compact].
 !! Input index error (file = a.tex, line = 12):
-   -- Unknown index keyword \usepackage.
+   -- Unknown index keyword \usepackage[T1].
 !! Input index error (file = a.tex, line = 13):
-   -- Unknown index keyword \usepackage[brazil].
-!! Input index error (file = a.tex, line = 14):
-   -- Unknown index keyword \usepackage[utf8].
-!! Input index error (file = a.tex, line = 15):
    -- Unknown index keyword \usepackage.
-!! Input index error (file = a.tex, line = 17):
-   -- Unknown index keyword \pagestyle.
+!! Input index error (file = a.tex, line = 14):
+   -- Unknown index keyword \usepackage[brazil].
+!! Input index error (file = a.tex, line = 15):
+   -- Unknown index keyword \usepackage[utf8].
+!! Input index error (file = a.tex, line = 16):
+   -- Unknown index keyword \usepackage.
 !! Input index error (file = a.tex, line = 18):
-   -- Unknown index keyword \setcounter.
+   -- Unknown index keyword \pagestyle.
 !! Input index error (file = a.tex, line = 19):
+   -- Unknown index keyword \setcounter.
+!! Input index error (file = a.tex, line = 20):
    -- Unknown index keyword \renewcommand.
-!! Input index error (file = a.tex, line = 21):
-   -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 22):
-   -- Unknown index keyword \def\thickhrulefill.
-!! Input index error (file = a.tex, line = 23):
-   -- Unknown index keyword \renewcommand.
-!! Input index error (file = a.tex, line = 24):
    -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 23):
+   -- Unknown index keyword \def\thickhrulefill.
+!! Input index error (file = a.tex, line = 24):
+   -- Unknown index keyword \renewcommand.
 !! Input index error (file = a.tex, line = 25):
    -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 26):
-   -- Unknown index keyword \begin.
-!! Input index error (file = a.tex, line = 27):
    -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 27):
+   -- Unknown index keyword \begin.
 !! Input index error (file = a.tex, line = 28):
    -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 29):
@@ -53,21 +53,21 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 30):
    -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 31):
-   -- Unknown index keyword \end.
-!! Input index error (file = a.tex, line = 32):
    -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 32):
+   -- Unknown index keyword \end.
 !! Input index error (file = a.tex, line = 33):
    -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 34):
    -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 35):
-   -- Unknown index keyword \title.
-!! Input index error (file = a.tex, line = 36):
-   -- Unknown index keyword \author.
-!! Input index error (file = a.tex, line = 37):
-   -- Unknown index keyword \begin.
-!! Input index error (file = a.tex, line = 38):
    -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 36):
+   -- Unknown index keyword \title.
+!! Input index error (file = a.tex, line = 37):
+   -- Unknown index keyword \author.
+!! Input index error (file = a.tex, line = 38):
+   -- Unknown index keyword \begin.
 !! Input index error (file = a.tex, line = 39):
    -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 40):
@@ -77,17 +77,17 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 42):
    -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 43):
-   -- Unknown index keyword \section.
-!! Input index error (file = a.tex, line = 44):
-   -- Unknown index keyword Nesteexperimentoestudamososconceitosdeumtransformador.EsteéumdispositivodecorrentealternadaqueoperabaseadonosprincípioseletromagnéticosdaLeideFaraday\footnote.
-!! Input index error (file = a.tex, line = 45):
-   -- Unknown index keyword \section.
-!! Input index error (file = a.tex, line = 46):
    -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 44):
+   -- Unknown index keyword \section.
+!! Input index error (file = a.tex, line = 45):
+   -- Unknown index keyword Nesteexperimentoestudamososconceitosdeumtransformador.EsteéumdispositivodecorrentealternadaqueoperabaseadonosprincípioseletromagnéticosdaLeideFaraday\footnote.
+!! Input index error (file = a.tex, line = 46):
+   -- Unknown index keyword \section.
 !! Input index error (file = a.tex, line = 47):
-   -- Unknown index keyword \begin.
+   -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 48):
-   -- Unknown index keyword \item.
+   -- Unknown index keyword \begin.
 !! Input index error (file = a.tex, line = 49):
    -- Unknown index keyword \item.
 !! Input index error (file = a.tex, line = 50):
@@ -99,15 +99,15 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 53):
    -- Unknown index keyword \item.
 !! Input index error (file = a.tex, line = 54):
-   -- Unknown index keyword \end.
-!! Input index error (file = a.tex, line = 55):
-   -- Unknown index keyword \subsection.
-!! Input index error (file = a.tex, line = 56):
-   -- Unknown index keyword \subsubsection.
-!! Input index error (file = a.tex, line = 57):
-   -- Unknown index keyword \begin.
-!! Input index error (file = a.tex, line = 58):
    -- Unknown index keyword \item.
+!! Input index error (file = a.tex, line = 55):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 56):
+   -- Unknown index keyword \subsection.
+!! Input index error (file = a.tex, line = 57):
+   -- Unknown index keyword \subsubsection.
+!! Input index error (file = a.tex, line = 58):
+   -- Unknown index keyword \begin.
 !! Input index error (file = a.tex, line = 59):
    -- Unknown index keyword \item.
 !! Input index error (file = a.tex, line = 60):
@@ -117,47 +117,47 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 62):
    -- Unknown index keyword \item.
 !! Input index error (file = a.tex, line = 63):
-   -- Unknown index keyword \end.
+   -- Unknown index keyword \item.
 !! Input index error (file = a.tex, line = 64):
-   -- Unknown index keyword \subsubsection.
+   -- Unknown index keyword \end.
 !! Input index error (file = a.tex, line = 65):
    -- Unknown index keyword \subsubsection.
 !! Input index error (file = a.tex, line = 66):
    -- Unknown index keyword \subsubsection.
 !! Input index error (file = a.tex, line = 67):
-   -- Unknown index keyword Dadoque\footnote.
-!! Input index error (file = a.tex, line = 68):
-   -- Unknown index keyword \begin.
-!! Input index error (file = a.tex, line = 69):
-   -- Unknown index keyword \item$L=\frac.
-!! Input index error (file = a.tex, line = 70):
-   -- Unknown index keyword \item$\Delta.
-!! Input index error (file = a.tex, line = 71):
-   -- Unknown index keyword \end.
-!! Input index error (file = a.tex, line = 72):
-   -- Unknown index keyword Obtivemos,$f_.
-!! Input index error (file = a.tex, line = 73):
    -- Unknown index keyword \subsubsection.
-!! Input index error (file = a.tex, line = 74):
-   -- Unknown index keyword Montamosocircuitoconformeoesquemaabaixo,utilizamos$N_.
-!! Input index error (file = a.tex, line = 75):
+!! Input index error (file = a.tex, line = 68):
+   -- Unknown index keyword Dadoque\footnote.
+!! Input index error (file = a.tex, line = 69):
    -- Unknown index keyword \begin.
-!! Input index error (file = a.tex, line = 76):
-   -- Missing arguments -- need two (premature LFD).
-!! Input index error (file = a.tex, line = 77):
-   -- Unknown index keyword \label.
-!! Input index error (file = a.tex, line = 78):
-   -- Unknown index keyword \includegraphics[scale=0.25].
-!! Input index error (file = a.tex, line = 79):
-   -- Unknown index keyword \caption.
-!! Input index error (file = a.tex, line = 80):
+!! Input index error (file = a.tex, line = 70):
+   -- Unknown index keyword \item$L=\frac.
+!! Input index error (file = a.tex, line = 71):
+   -- Unknown index keyword \item$\Delta.
+!! Input index error (file = a.tex, line = 72):
    -- Unknown index keyword \end.
-!! Input index error (file = a.tex, line = 81):
-   -- Unknown index keyword Paraasmedidasdastensõesprimeiramenteutilizamosoresistorde$R_.
-!! Input index error (file = a.tex, line = 82):
+!! Input index error (file = a.tex, line = 73):
+   -- Unknown index keyword Obtivemos,$f_.
+!! Input index error (file = a.tex, line = 74):
+   -- Unknown index keyword \subsubsection.
+!! Input index error (file = a.tex, line = 75):
+   -- Unknown index keyword Montamosocircuitoconformeoesquemaabaixo,utilizamos$N_.
+!! Input index error (file = a.tex, line = 76):
    -- Unknown index keyword \begin.
-!! Input index error (file = a.tex, line = 83):
+!! Input index error (file = a.tex, line = 77):
    -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 78):
+   -- Unknown index keyword \label.
+!! Input index error (file = a.tex, line = 79):
+   -- Unknown index keyword \includegraphics[scale=0.7].
+!! Input index error (file = a.tex, line = 80):
+   -- Unknown index keyword \caption.
+!! Input index error (file = a.tex, line = 81):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 82):
+   -- Unknown index keyword Paraasmedidasdastensõesprimeiramenteutilizamosoresistorde$R_.
+!! Input index error (file = a.tex, line = 83):
+   -- Unknown index keyword \begin.
 !! Input index error (file = a.tex, line = 84):
    -- Missing arguments -- need two (premature LFD).
 !! Input index error (file = a.tex, line = 85):
@@ -179,11 +179,73 @@ Scanning input file a.tex...
 !! Input index error (file = a.tex, line = 93):
    -- Unknown index keyword \end.
 !! Input index error (file = a.tex, line = 94):
-   -- Unknown index keyword Paraespirasinvertidas,onde$N_.
+   -- Unknown index keyword Plotamosatabelaacimanográfico,vistoemseguida,ecalculamosutilizandoométododosmínimosquadrados\footnote.
 !! Input index error (file = a.tex, line = 95):
-   -- Unknown index keyword \subsubsection.
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 96):
+   -- Unknown index keyword \item$\overline.
 !! Input index error (file = a.tex, line = 97):
+   -- Unknown index keyword \item$b=\frac.
+!! Input index error (file = a.tex, line = 98):
    -- Unknown index keyword \end.
-done (0 entries accepted, 92 rejected).
+!! Input index error (file = a.tex, line = 99):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 100):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 101):
+   -- Unknown index keyword \itemCoeficienteângular\boxed.
+!! Input index error (file = a.tex, line = 102):
+   -- Unknown index keyword \item\boxed.
+!! Input index error (file = a.tex, line = 103):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 104):
+   -- Unknown index keyword Portando,temos\boxed.
+!! Input index error (file = a.tex, line = 105):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 106):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 107):
+   -- Unknown index keyword \label.
+!! Input index error (file = a.tex, line = 108):
+   -- Unknown index keyword \includegraphics[scale=0.45].
+!! Input index error (file = a.tex, line = 109):
+   -- Unknown index keyword \caption.
+!! Input index error (file = a.tex, line = 110):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 111):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 112):
+   -- Unknown index keyword Paraespirasinvertidas,onde$N_.
+!! Input index error (file = a.tex, line = 113):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 114):
+   -- Unknown index keyword \subsubsection.
+!! Input index error (file = a.tex, line = 115):
+   -- Unknown index keyword Quandoummaterialferromagnéticoéexpostoaumcampomagnéticoeemseguidaessecampodiminuideintensidade,ocampomagnético\textbf.
+!! Input index error (file = a.tex, line = 116):
+   -- Unknown index keyword Essefenômenoquecausaoatrasoentre\textbf.
+!! Input index error (file = a.tex, line = 117):
+   -- Unknown index keyword \begin.
+!! Input index error (file = a.tex, line = 118):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 119):
+   -- Unknown index keyword \subfloat[f$\approx20Hz$].
+!! Input index error (file = a.tex, line = 120):
+   -- Unknown index keyword \includegraphics[scale=0.35].
+!! Input index error (file = a.tex, line = 121):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 122):
+   -- Unknown index keyword \subfloat[f$\approx60Hz$].
+!! Input index error (file = a.tex, line = 123):
+   -- Unknown index keyword \includegraphics[scale=0.35].
+!! Input index error (file = a.tex, line = 124):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = a.tex, line = 125):
+   -- Unknown index keyword \caption.
+!! Input index error (file = a.tex, line = 126):
+   -- Unknown index keyword \end.
+!! Input index error (file = a.tex, line = 127):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 123 rejected).
 Nothing written in a.ind.
 Transcript written in a.ilg.
